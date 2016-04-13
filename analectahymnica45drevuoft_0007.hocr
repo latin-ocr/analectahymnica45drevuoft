@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./analectahymnica45drevuoft/analectahymnica45drevuoft_0007.png"; bbox 0 0 1650 2727; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 588 333 1193 696">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 588 333 1193 696">
+     <span class='ocr_line' id='line_1_1' title="bbox 588 333 1193 696; baseline 0 2031"><span class='ocrx_word' id='word_1_1' title='bbox 588 333 1193 696; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 787 805 1032 934">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 787 805 1032 934">
+     <span class='ocr_line' id='line_1_2' title="bbox 787 805 1032 842; baseline 0.016 -4"><span class='ocrx_word' id='word_1_2' title='bbox 787 805 847 839; x_wconf 75' lang='grc' dir='ltr'><strong><em>,ιυκ</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 871 819 892 828; x_wconf 84' lang='grc'><strong>-</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 915 812 938 842; x_wconf 85' lang='lat'>8</span> <span class='ocrx_word' id='word_1_5' title='bbox 967 809 1032 842; x_wconf 77' lang='lat'><strong><em>1938</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 817 886 1029 934; baseline -0.009 0"><span class='ocrx_word' id='word_1_6' title='bbox 817 891 828 934; x_wconf 77' lang='grc'>1</span> <span class='ocrx_word' id='word_1_7' title='bbox 861 893 889 925; x_wconf 83' lang='lat' dir='ltr'>o</span> <span class='ocrx_word' id='word_1_8' title='bbox 915 886 1029 932; x_wconf 75' lang='lat'><strong><em>82¹5</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
